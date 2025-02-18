@@ -3,6 +3,7 @@ What this assignment consists of.
 
 - index.html (Your HTML page to display results)
 - script.js (Your JavaScript code file)
+  
 These files Complete the Following JavaScript Tasks
 
 🔹 Part 1: Variables, Data Types & Type Casting
