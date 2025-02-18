@@ -1,6 +1,6 @@
 Assignment 1
-What this assignment consists of.
 
+What this assignment consists of.
 - index.html (Your HTML page to display results)
 - script.js (Your JavaScript code file)
   
